@@ -17,7 +17,7 @@ end
 
 move(board, index)
 
-
+diplay_board(board)
 #move(board, 0, "X")
 #expected output to be
 # code your input_to_index and move method here!
